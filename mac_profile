@@ -1,0 +1,4 @@
+alias mygit='cd /Users/kevinshe/data/mywork/mygitbase/pythonrepo'
+alias linux='/Users/kevinshe/linux'
+alias myhexo='cd /Users/kevinshe/data/mywork/mygitbase/pythonrepo/others/hexo/source/_posts/'
+export NODE_PATH='/usr/local/lib/node_modul
